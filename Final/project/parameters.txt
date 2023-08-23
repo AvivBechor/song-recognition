@@ -1,0 +1,6 @@
+﻿freq:99e6
+fs:1e6
+gain:0
+numTaps:99
+cutoff:75e3
+ip:192.168.10.6

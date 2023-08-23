@@ -1,0 +1,32 @@
+Anomaly detection algorithms:
+
+https://serokell.io/blog/anomaly-detection-in-machine-learning
+
+https://towardsdatascience.com/local-outlier-factor-lof-algorithm-for-outlier-identification-8efb887d9843
+
+docs: 
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html
+
+example: 
+https://scikit-learn.org/stable/auto_examples/neighbors/plot_lof_outlier_detection.html
+
+https://pub.towardsai.net/an-in-depth-guide-to-local-outlier-factor-lof-for-outlier-detection-in-python-5a6f128e5871
+
+https://grabngoinfo.com/local-outlier-factor-lof-for-anomaly-detection/
+
+https://medium.com/m2mtechconnect/classifying-music-and-speech-with-machine-learning-e036ffab002e
+
+model:
+https://dev.to/benwtrent/outlier-detection-from-scratch-sort-of-in-python-30p8
+
+*local_reach_density is the values of each cluster
+* the lof should be calculated for a data point for each cluster and the cluster with the highest lof value is the cluster where the anomaly is  
+
+research: 
+https://www.itm-conferences.org/articles/itmconf/pdf/2021/05/itmconf_icacc2021_03024.pdf
+
+
+OCSVM:
+https://stats.stackexchange.com/questions/99162/what-is-one-class-svm-and-how-does-it-work
+
+https://www.sciencedirect.com/science/article/pii/S1053811911006872?via%3Dihub
